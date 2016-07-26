@@ -82,7 +82,7 @@ The python version and modules requirements
 
   **i) Log-on Message:**
 
-    This message is sent to the server upon the connection establishment with the server and thus, the user is registered on the server.
+This message is sent to the server upon the connection establishment with the server and thus, the user is registered on the server.
 
 *Format: 'From'-Empty String-'log on'*
 
