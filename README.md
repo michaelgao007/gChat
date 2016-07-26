@@ -70,9 +70,9 @@ The python version and modules requirements
 
   4) Type in the text area in the 'Control Panel' and send a Message by either of the way as below
 
-    1) select a recipient from the 'Send Message To' drop-down menu and press 'Send' button to send the message to the remote recipient
+  - select a recipient from the 'Send Message To' drop-down menu and press 'Send' button to send the message to the remote recipient
 
-    2) broadcast the message to all online users by pressing the 'Broadcast' button.
+  - broadcast the message to all online users by pressing the 'Broadcast' button.
 
   5) Press 'Disconnect' to terminate the session at the server. The status will change from 'Connected' to 'Disconnected' once the connection is terminated from the server
 
