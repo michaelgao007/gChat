@@ -2,7 +2,7 @@
 
 This project creates a client-server based online chat application. The client is called gChat and the server is named msgRouter.
 
-The client connects to and registers with the server and then from the sent message is routed by the server to the specified destination. This is the reason why the server is given the name 'msgRouter'.
+The client connects to and registers with the server and then from there the  message is routed by the server to the specified destination. This is the reason why the server is given the name 'msgRouter'.
 
 # **Test Environment**
 
