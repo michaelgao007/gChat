@@ -20,7 +20,7 @@ The client and server processes are running on the following platforms:
 
 # **Deployment**
 
-The python version and modules requirements
+The python version and modules requirement
 
 **1. Client**
 
